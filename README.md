@@ -7,7 +7,7 @@
 
 *Informatics Graduate · Junior Data Analyst · Web Developer*
 
-[Portfolio](https://github.com/YOUR_USERNAME) · [GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://www.linkedin.com/)
+[Portfolio](https://rizkyfadhilah-dev.github.io/personal-portfolio/) · [GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://www.linkedin.com/)
 
 <br/>
 
